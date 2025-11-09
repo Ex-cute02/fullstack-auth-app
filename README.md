@@ -13,7 +13,7 @@ A complete fullstack authentication application with React frontend and Node.js/
 - Modern React with hooks and context API
 - Responsive UI design
 
-### Discussion Forum (React Version from minipro)
+### Discussion Forum
 - View recent and all discussion topics
 - Create new topics with categories
 - Reply to topics
